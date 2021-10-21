@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ashardianto | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ashardianto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ashardianto | Twitter" width="22px" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" />][twitter]
+[<img align="left" alt="ashardianto | LinkedIn" width="22px" src="https://seeklogo.com/images/L/linkedin-in-icon-logo-2E34704F04-seeklogo.com.png" />][linkedin]
 [<img align="left" alt="ashardianto | Instagram" width="22px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-4773FE3F99-seeklogo.com.png" />][instagram]
 
 <br />
