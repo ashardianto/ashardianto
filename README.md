@@ -4,7 +4,7 @@
 
 - 🔭 I just joinned Binar Academy Full Stack Developer Bootcamp!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Get my first Job as a Developer!
+- 🥅 2022 Goals: Shift & level up my career and get my first Job as a Developer!
 - ⚡ Yes, I'm learning everything. I'm learning by DOING!
 
 ### Connect with me:
