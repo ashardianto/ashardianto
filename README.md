@@ -1,4 +1,4 @@
-### Hi there, I'm Ashar - aka [ashardianto][website] 👋
+### Hi there, I'm Ashar 👋
 
 ## I'm a (soon to be) Developer!!
 
