@@ -2,7 +2,7 @@
 
 ## I'm a (soon to be) Developer!!
 
-- 🔭 I'm a graduate of Binar Academy Full-Stack Web Development Coding Bootcamp!
+- 🔭 I'm a graduate of Binar Academy Full-Stack Web Development Bootcamp!
 - 🌱 I'm currently learning everything 🤣
 - 🥅 2022 Goals: Shift & level up my career and get my first Job as a Developer!
 - ⚡ Yes, I'm learning everything. I'm learning by DOING!
