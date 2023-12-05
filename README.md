@@ -1,10 +1,11 @@
 ### Hi there, I'm Ashar 👋
 
-## I'm a (soon to be) Developer!!
+## I'm a Frontend Engineer!!
 
 - 🔭 I'm a graduate of Binar Academy Full-Stack Web Development Bootcamp!
 - 🌱 I'm currently learning everything 🤣
-- 🥅 2022 Goals: Shift & level up my career and get my first Job as a Developer!
+- 🥅 2022 Goals: Shift & level up my career and get my first Job as a Engineer! (Passed)
+- 🥅 2024 Goals: Shift & level up my career, relocated and work abroad! (still manifesting 🤣)
 - ⚡ Yes, I'm learning everything. I'm learning by DOING!
 
 ### Languages and Tools:
